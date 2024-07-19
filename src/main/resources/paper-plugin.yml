@@ -1,0 +1,6 @@
+name: Tutorial-Plugin
+version: '1.0'
+main: me.slimified.tutorialplugin.TutorialPlugin
+description: A plugin for a Youtube tutorial series.
+api-version: '1.21'
+bootstrapper: me.slimified.tutorialplugin.TutorialPluginBootstrapper
