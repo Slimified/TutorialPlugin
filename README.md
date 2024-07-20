@@ -4,7 +4,7 @@ Reference:
 
 Learning:
 - [Setting Up](https://www.youtube.com/watch?v=4GBzEqeH03M&t=222s) ✅
-- Events ⚠️
+- Events ✅
 - Commands
 - Items
 - GUIS
